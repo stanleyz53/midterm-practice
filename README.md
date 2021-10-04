@@ -21,9 +21,9 @@ This exam has six questions. For each question, please open the corresponding fo
 You must sign the pledge by providing your full name (as it appears on SIS) and your JHED below. Additionally, provide your GitHub username and repository.
 
 ```text
-NAME=
-JHED=
-GITHUB_USERNAME=
+NAME=Stanley Zheng 
+JHED=szheng22
+GITHUB_USERNAME=stanleyz53
 GITHUB_REPO=
 ```
 
